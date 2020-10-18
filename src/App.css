@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.main {
+  display: flex;
+  justify-content: space-between !important;
+}
+img {
+  width: 50%;
+  /* overflow: hidden;
+  -webkit-border-radius: 60px;
+  -moz-border-radius: 50px; */
+  border-radius: 60px;
+  height: 45%;
+  float: left;
+}
+
+.parag{
+  color: aqua !important;
+}
